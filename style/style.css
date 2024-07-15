@@ -197,6 +197,7 @@ main > section{
      display: flex;
      justify-content: center;
      align-items: center;
+     margin: 130px auto 0;
 }
 .footer-text{
     color: rgba(66, 66, 66, 1);
